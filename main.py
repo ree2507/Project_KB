@@ -1,3 +1,7 @@
+# nama: Reyhan Dany
+# nim: f55123095
+# kelas: TI C
+
 import cv2
 import face_recognition
 import os
